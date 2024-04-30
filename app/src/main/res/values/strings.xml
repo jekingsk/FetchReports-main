@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchReports</string>
+    <string name="title_activity_user_loc_and_distance">UserLocAndDistance</string>
+</resources>

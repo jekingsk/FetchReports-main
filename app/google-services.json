@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "544565404929",
+    "firebase_url": "https://bluelineofficial-4a215-default-rtdb.firebaseio.com",
+    "project_id": "bluelineofficial-4a215",
+    "storage_bucket": "bluelineofficial-4a215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544565404929:android:d0cd76ced8660676146700",
+        "android_client_info": {
+          "package_name": "com.beastprojects.bluelinesecureofficial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8M7P1jSVfDU6Iv--zdu2yU-i9cW1L1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544565404929:android:40130115654c5e17146700",
+        "android_client_info": {
+          "package_name": "com.beastprojects.fetchreports"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8M7P1jSVfDU6Iv--zdu2yU-i9cW1L1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544565404929:android:a0d55e753bb85c32146700",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8M7P1jSVfDU6Iv--zdu2yU-i9cW1L1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544565404929:android:c3efdcebae12b575146700",
+        "android_client_info": {
+          "package_name": "com.vaibhavrawat.bluelineadminmain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8M7P1jSVfDU6Iv--zdu2yU-i9cW1L1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544565404929:android:90761c391c0491ab146700",
+        "android_client_info": {
+          "package_name": "com.vaibhavrawat.bluelinesecureadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8M7P1jSVfDU6Iv--zdu2yU-i9cW1L1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
